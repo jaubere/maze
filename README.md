@@ -25,3 +25,7 @@ There are some mazes samples in the directory mazes
 '| grep "o" --color' advised
 
 _____
+
+Generator algorithm is personal
+
+Solver alogorithm is DFS
